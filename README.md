@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ifekeyz
-- 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning python and react
-- 💞️ I’m looking to collaborate on AI and software development
-- 📫 How to reach me feranmi.micheal@gmail.com or www.amentech.com.ng
+- 👋 Hi, I’m Feranmi Micheal @ifekeyz
+- 👀 I’m a full stack Software Developer
+- 🌱 I have built a robust and scalable websites and mobile applications for companies and personal clients
+- 💞️ I’m looking to collaborate on AI with software development
+- 📫 How to reach me feranmi.micheal@gmail.com 
 
 <!---
 ifekeyz/ifekeyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
